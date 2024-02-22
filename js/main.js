@@ -51,7 +51,7 @@ $(document).ready(function() {
             }
         }
         form.addEventListener('submit', function(e) {
-            e.preventDefault();
+        e.preventDefault();
         })
     })
 })
